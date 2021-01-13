@@ -75,3 +75,5 @@ const probot = new API({ token : "Yor Acces Token"});
 
 probot.getGuildData('GUILD_ID') // https://pastebin.ubuntu.com/p/tT6ZfdJFxN/
 ```
+
+#### More Coming Soon
